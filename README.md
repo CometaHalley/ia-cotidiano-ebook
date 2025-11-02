@@ -2,7 +2,8 @@
  O que é IA no dia a dia 
  <p align="center">
   
-  <img width="1024" height="1536" alt="ChatGPT Image 2 de nov  de 2025, 00_36_34" src="https://github.com/user-attachments/assets/6c895f6f-2654-46c9-b532-039929518b82" />
+ <img width="300" height="450" alt="ChatGPT Image 2 de nov  de 2025, 00_36_34 - Editado - Editado" src="https://github.com/user-attachments/assets/7820c71a-c4c1-4159-9440-07d2b804c29d" />
+
 
 </p>
 
