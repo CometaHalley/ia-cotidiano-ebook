@@ -39,3 +39,40 @@ Demonstrar como a IA já está integrada ao cotidiano e como ela facilita tarefa
 
 ## 🗂️ Estrutura do repositório
 
+
+---
+
+## 🚀 Como visualizar o e-book
+
+➡️ Clique no arquivo **IA_Ebook.pdf**  
+ou  
+➡️ Acesse diretamente [clicando aqui](./IA_Ebook.pdf)  
+
+Você pode baixá-lo, abrir no navegador ou compartilhar o link.
+
+---
+
+## 🧩 Ferramentas utilizadas
+
+- ChatGPT (apoio na escrita e revisão de texto)  
+- Git & GitHub (versionamento e publicação)  
+- Ferramentas de edição e exportação em PDF / Canva 
+
+---
+
+## ✨ Autor
+
+**Hallem Zamir**  
+💼 [github.com/CometaHalley](https://github.com/CometaHalley)  
+
+
+---
+
+<p align="center">
+  ⭐ Se este projeto te inspirou, deixe uma estrela no repositório!
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-concluído-brightgreen?style=flat-square" alt="Status: concluído">
+  <img src="https://img.shields.io/badge/feito%20com-IA-blue?style=flat-square" alt="Feito com IA">
+</p>
