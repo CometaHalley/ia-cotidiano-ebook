@@ -1,19 +1,16 @@
 # ia-cotidiano-ebook
  O que é IA no dia a dia 
  <p align="center">
-  
- <img width="300" height="450" alt="ChatGPT Image 2 de nov  de 2025, 00_36_34 - Editado - Editado" src="https://github.com/user-attachments/assets/7820c71a-c4c1-4159-9440-07d2b804c29d" />
-
+ <img width="761" height="952" alt="ChatGPT Image 2 de nov  de 2025, 00_36_34 - Editado - Editado" src="https://github.com/user-attachments/assets/1ff20df7-a9ae-42dd-8d8d-a07c4687e58c" />
 
 </p>
 
 <h1 align="center">📘 E-book — Inteligência Artificial no Dia a Dia</h1>
 
 <p align="center">
-
   <i>Como a IA está transformando a forma de viver, estudar e trabalhar.</i>
 </p>
-<p align="center">
+
 ---
 
 ## 🧠 Sobre o projeto
