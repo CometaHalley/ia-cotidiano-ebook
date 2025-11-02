@@ -9,7 +9,7 @@
 
 <h1 align="center">📘 E-book — Inteligência Artificial no Dia a Dia</h1>
 
-<p align="center">![Uploading ChatGPT Image 2 de nov. de 2025, 00_36_34.png…]()
+<p align="center">
 
   <i>Como a IA está transformando a forma de viver, estudar e trabalhar.</i>
 </p>
