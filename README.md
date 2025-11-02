@@ -1,12 +1,15 @@
 # ia-cotidiano-ebook
  O que é IA no dia a dia 
  <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Artificial_Intelligence_Icon.png" width="120" alt="Ícone de IA">
+  
+  <img width="1024" height="1536" alt="ChatGPT Image 2 de nov  de 2025, 00_36_34" src="https://github.com/user-attachments/assets/6c895f6f-2654-46c9-b532-039929518b82" />
+
 </p>
 
 <h1 align="center">📘 E-book — Inteligência Artificial no Dia a Dia</h1>
 
-<p align="center">
+<p align="center">![Uploading ChatGPT Image 2 de nov. de 2025, 00_36_34.png…]()
+
   <i>Como a IA está transformando a forma de viver, estudar e trabalhar.</i>
 </p>
 
