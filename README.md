@@ -11,9 +11,9 @@
 
 <p align="center">
 
-  <i aling="center">Como a IA está transformando a forma de viver, estudar e trabalhar.</i>
+  <i>Como a IA está transformando a forma de viver, estudar e trabalhar.</i>
 </p>
-
+<p align="center">
 ---
 
 ## 🧠 Sobre o projeto
