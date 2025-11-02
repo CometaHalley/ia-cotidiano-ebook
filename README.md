@@ -1,7 +1,7 @@
 # ia-cotidiano-ebook
  O que é IA no dia a dia 
  <p align="center">
- <img width="761" height="952" alt="ChatGPT Image 2 de nov  de 2025, 00_36_34 - Editado - Editado" src="https://github.com/user-attachments/assets/1ff20df7-a9ae-42dd-8d8d-a07c4687e58c" />
+ <img width="200" height="150" alt="ChatGPT Image 2 de nov  de 2025, 00_36_34 - Editado - Editado" src="https://github.com/user-attachments/assets/1ff20df7-a9ae-42dd-8d8d-a07c4687e58c" />
 
 </p>
 
